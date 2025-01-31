@@ -1,6 +1,6 @@
 # Loadout Archiv
 
-Sammlung an gespielten Loadouts verschiedenen Fraktionen.
+Sammlung an gespielten Loadouts verschiedenen Fraktionen. Zur Benutzung mit dem normalen Zuweisungsmethode: <https://wiki.tacticalteam.de/de/Missionsbau/onPlayerRespawn>
 
 ## Struktur
 
