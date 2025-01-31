@@ -12,8 +12,8 @@ Das Repo ist folgendermaßen aufgebaut:
 
 z.b.
 
-- Bundeswher
-  - Panzergrenadier [Tropentarn] - 2012
+- Bundeswehr
+  - Panzergrenadiere [Tropentarn] - 2012
     - BW_Fahrer.sqf
     - BW_GF.sqf
 
